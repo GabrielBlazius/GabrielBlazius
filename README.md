@@ -1,9 +1,5 @@
 <h1 align="center">Olá! Eu sou Gabriel Blazius 👋</h1>
 
-<p align="center">
-  <img src="https://your-banner-link-here.com/banner.png" alt="Banner personalizado com ciência das cores" width="80%">
-</p>
-
 ---
 
 ### 🛠️ Sobre mim
