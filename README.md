@@ -4,7 +4,7 @@
 
 ### 🛠️ Sobre mim
 - 💻 Programador especializado em **C**, **Java**, **HTML** e **CSS**.
-- 🎨 Apaixonado por tecnologia, ciência das cores e design criativo.
+- 🎨 Apaixonado por tecnologia.
 - 🚀 Sempre aprendendo algo novo para melhorar minhas habilidades.
 
 ---
