@@ -1,4 +1,4 @@
-<img width="1390" alt="foto" src="https://github.com/GabrielBlazius/GabrielBlazius/issues/2#issue-2794162895">
+<img width="1390" alt="foto" src="./Gabriel.png">
 
 ---
 
