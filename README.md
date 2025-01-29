@@ -2,6 +2,8 @@
 
 ---
 
+## 👨‍💻 Gabriel Blazius
+
 ### 🛠️ Sobre mim
 - 💻 Programador especializado em **C**, **Java**, **HTML** e **CSS**.
 - 🎨 Apaixonado por tecnologia.
@@ -9,40 +11,136 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🤖 Linguagens e Tecnologias
 
-<div align="center">
-  
-**Linguagens**:  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 
-**Ferramentas**:  
-![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-007ACC?style=flat&logo=cplusplus&logoColor=white) 
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-  
-</div>
+<br/>
+<br/>
+
+### 🔧 Ferramentas
+
+<img 
+    align="left" 
+    alt="CodeBlocks" 
+    title="Code::Blocks"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+/>
+<img 
+    align="left" 
+    alt="IntelliJ" 
+    title="IntelliJ IDEA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VSCode" 
+    title="Visual Studio Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ---
 
 ### 🌐 Conecte-se comigo
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/blaziuspriv/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-blazius-699875346/)  
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=flat&logo=google-chrome&logoColor=white)](https://gabrielblazius.github.io/Links-De-Contatos/)
+<p align="left">
+    <a href="https://www.instagram.com/blaziuspriv/">
+        <img 
+            alt="Instagram" 
+            title="Instagram" 
+            src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/gabriel-blazius-699875346/">
+        <img 
+            alt="LinkedIn" 
+            title="LinkedIn" 
+            src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://gabrielblazius.github.io/Links-De-Contatos/">
+        <img 
+            alt="Portfólio" 
+            title="Portfólio" 
+            src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBlazius&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gabriel Blazius" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBlazius&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas por Gabriel Blazius" />
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180em" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=GabrielBlazius&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+  />
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBlazius&layout=compact&langs_count=7&theme=radical" 
+  />
+</p>
 
 ---
