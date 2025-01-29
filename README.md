@@ -1,5 +1,7 @@
-👨🏻‍💻 Gabriel Blazius
-Desenvolvedor back-end
+# 👩🏻‍💻 Gabriel Blazius
+
+**`Desenvolvedor back-end`**
+
 
 Me chamo Gabriel Blazius, tenho 20 anos e sou natural de Balneário Camboriú. Concluí o ensino médio no IFC, com o curso técnico em Agropecuária. Atualmente, estou cursando Sistemas de Informação na Uniavan. Sou apaixonado por tecnologia e busco me capacitar constantemente.
 <br/> <br/>
