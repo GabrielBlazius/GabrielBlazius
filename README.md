@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabriel Blazius
+# 👨🏻‍💻 Gabriel Blazius
 
 **`Desenvolvedor back-end`**
 
