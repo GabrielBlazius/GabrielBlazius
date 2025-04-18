@@ -1,4 +1,4 @@
-<img width="1390" alt="Banner-GabrielBlazius" src="fotoBanner.jpeg">
+<img width="1390" alt="Banner-GabrielBlazius" src="fotoBanner.jpg">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-blazius-699875346/">Linkedin</a> 
