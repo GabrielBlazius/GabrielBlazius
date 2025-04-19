@@ -1,6 +1,6 @@
 <img width="1390" alt="Banner-GabrielBlazius" src="fotoBanner.jpg">
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-blazius-699875346/">Linkedin</a> 
+  <a href="https://www.linkedin.com/in/gabrielblazius/">Linkedin</a> 
   <a href="https://www.youtube.com/@Blaziusdev">Youtube</a> 
   <br> <br>
   Hello! :)<br>
